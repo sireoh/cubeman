@@ -1,0 +1,32 @@
+//Introduction
+
+Welcome to the World of Cubes!
+
+This is the land of all things cubes.
+
+Even your mom is a cube.
+
+Well anyways, adventure awaits you.
+
+Exit by the portal on the right.
+
+Don't die out there.
+
+//Part 2
+Help !!
+
+Please do something !!
+
+Can you just
+
+Shoot them or something.
+
+or melee attack them
+
+it doesn't really matter.
+
+I just want them dead.
+
+<shift> = shoot
+
+<ctrl> = melee
